@@ -1,7 +1,7 @@
 # Navier-Stokes Project — Numerical Methods for PDEs
 
-Collaborative project — Politecnico di Milano, MSc in High Performance Computing Engineering  
-a.y. 2025–2026
+Group project — Politecnico di Milano, MSc in High Performance Computing Engineering  
+a.y. 2025–2026, Course in Numerical Methods for Partial Differential Equations
 
 ---
 
